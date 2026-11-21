@@ -10,7 +10,7 @@ local hT=Color3.fromRGB(255,176,112)
 local u0=Color3.new(0,0,0)
 local Ls=Color3.new(1,1,1)
 local e8=Color3.fromRGB(245,240,238)
-local Yb=[[Hello, I've been banned from Noxious for being too young (9 years old💀💀), so this shitty script will no longer work or receive updates.
+local Yb=[[Hello, I've been banned from Noxious for being too young (13 years old), so this shitty script will no longer work or receive updates.
 
 Thank you, Noxious, for being such an amazing scripting community where I could share my ideas. And thank you to everyone who used it.
 
